@@ -52,7 +52,7 @@ The results reinforced what the theory predicts and practitioners observe:
 
 ### Ongoing Research
 
-Parallel to the Monte Carlo work, I explored **covariance-shrinkage techniques** and **random-matrix noise filters** (see PDFs in `research/`).  
+Parallel to the Monte Carlo work, I explored **covariance-shrinkage techniques** and **random-matrix noise filters** (see PDFs entered as scans).  
 These methods aim to derive cleaner correlation structures that could feed both the analytical MVO and the stochastic Monte Carlo models.  
 
 While promising, these were put on hold because of data limitations and sensitivity to time-window choices. 
